@@ -3,5 +3,6 @@ class JavaTest {
 		System.out.println("This is a sample simple java app for Git Basics");
 		System.out.println("This is second line of text");
 		System.out.println("This line of text is added after the testing branch");
+		System.out.println("This is added after deleting the testing branch and checkout the master branch");
 	}
 }
